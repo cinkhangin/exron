@@ -3,7 +3,7 @@
 - 👀 Coding
 - 🌱 Reading
 - 💞️ Sleeping
-- 📫 Eating and Cats
+- 📫 Eating and Cats. (not eating cats)
 
 <!---
 exron/exron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
